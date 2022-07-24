@@ -1,1 +1,1 @@
-# Breast-cancer-detection-Tumor-Diagnosis-
+## This repo contains project on detection of breast cancer.
